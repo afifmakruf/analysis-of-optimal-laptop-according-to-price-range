@@ -16,7 +16,7 @@ This notebook consists of several main sections:<br>
 
 ## Data
 The data used in this analysis includes:<br>
-laptop_price - dataset.csv: Original data from the source.
+laptop_price - dataset.csv: Original data from the source.<br>
 laptop_price_cleaned.csv: Cleaned dataset.
 laptop_price_range.csv: Dataset that already have price range categories.
 
