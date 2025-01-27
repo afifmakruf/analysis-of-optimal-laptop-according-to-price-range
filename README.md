@@ -25,7 +25,9 @@ This notebook also includes various visualizations using libraries such as Seabo
 
 ## Installation
 To run this notebook, you need to install several Python libraries. You can use pip to install them:<br>
-!pip install pandas numpy seaborn matplotlib scikit-learn scipy
+```bash
+pip install pandas numpy seaborn matplotlib scikit-learn scipy
+```
 
 ## How to Use
 1. Download or clone this repository.
