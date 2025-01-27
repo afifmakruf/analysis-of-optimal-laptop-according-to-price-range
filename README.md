@@ -17,7 +17,7 @@ This notebook consists of several main sections:<br>
 ## Data
 The data used in this analysis includes:<br>
 laptop_price - dataset.csv: Original data from the source.<br>
-laptop_price_cleaned.csv: Cleaned dataset.
+laptop_price_cleaned.csv: Cleaned dataset.<br>
 laptop_price_range.csv: Dataset that already have price range categories.
 
 ## Visualization
@@ -25,7 +25,7 @@ This notebook also includes various visualizations using libraries such as Seabo
 
 ## Installation
 To run this notebook, you need to install several Python libraries. You can use pip to install them:<br>
-pip install pandas numpy seaborn matplotlib scikit-learn scipy
+!pip install pandas numpy seaborn matplotlib scikit-learn scipy
 
 ## How to Use
 1. Download or clone this repository.
